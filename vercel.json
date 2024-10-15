@@ -13,7 +13,7 @@
     "env": {
     "APP_ENV": "production",
     "APP_DEBUG": "true",
-    "APP_URL": "https://vercel.com/hsanhachichagmailcoms-projects",
+    "APP_URL": "https://vercel.com/mohamed-ali-chakrouns-projects",
     "APP_KEY": "base64:95wTQ/WobeH0OTbx+0gPpWCvvhM71Bi6ZgTvt6pKUSg=",
     "APP_CONFIG_CACHE": "/tmp/config.php",
     "APP_EVENTS_CACHE": "/tmp/events.php",
